@@ -1,0 +1,9 @@
+{
+  "name": "TokPulse - Short Video Platform",
+  "description": "Trending short-form vertical video experience with immersive feeds, sound tracks, reactions, camera studio, and creator profiles.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
